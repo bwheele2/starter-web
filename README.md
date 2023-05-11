@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## More stuff
 
-More stuff here for training purposes.  Then this too.
+More stuff here for training purposes.  Changing this as part of the stash example.
